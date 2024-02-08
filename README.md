@@ -1,7 +1,7 @@
 # Exercícios - Curso Ciência de Dados - Ebac
 Repositório com os exercícios do curso de Ciência de Dados da Ebac.
 
-## Notebooks
+### Notebooks
 Os notebooks podem ser executados no Jupyter Notebook ou qualquer outro que suporte.
 
 ![Stacks](https://skillicons.dev/icons?i=py,git,github&theme=dark)
